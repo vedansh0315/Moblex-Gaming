@@ -1,0 +1,81 @@
+body{
+    background-image: url('ak 49.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    color:#D6ED17FF;
+    background: #aebcbf; 
+background: -moz-linear-gradient(-45deg,  hsla(191,12%,72%,1) 0%, hsla(160,4%,45%,1) 50%, hsla(120,17%,5%,1) 51%, hsla(330,11%,4%,1) 100%); 
+background: -webkit-linear-gradient(-45deg,  hsla(191,12%,72%,1) 0%,hsla(160,4%,45%,1) 50%,hsla(120,17%,5%,1) 51%,hsla(330,11%,4%,1) 100%); 
+background: linear-gradient(135deg,  hsla(191,12%,72%,1) 0%,hsla(160,4%,45%,1) 50%,hsla(120,17%,5%,1) 51%,hsla(330,11%,4%,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#aebcbf', endColorstr='#0a0809',GradientType=1 );     
+}
+.nav{
+    height: 60px;
+    background-color: #606060FF;
+    color: #D6ED17FF;
+}
+.nav h1{
+    display: inline-block;
+    position: absolute;
+    left: 5;
+    color:#D6ED17FF;
+    padding-bottom: 5px;
+}
+.nav ul{
+    position: absolute;
+    right: 5px;
+
+}
+.nav ul li{
+display:inline-block;
+}
+.nav ul li a{
+    color:#D6ED17FF;
+    padding: 5px;
+}
+.top{
+    text-align: center;
+    text-shadow: 5px 5px 5px red;
+    color: black;
+}
+.top2{
+    opacity: 0.1;
+}
+.top2:hover  {
+    opacity: 0.6;
+    color: blue;
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+    box-shadow: yellow;
+    border-style: dotted;
+    border-color: tomato;
+}
+.button1 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #4CAF50;
+    text-align: center;
+ justify-content: space-between;
+background: #aebcbf; 
+background: -moz-linear-gradient(-45deg,  hsla(191,12%,72%,1) 0%, hsla(160,4%,45%,1) 50%, hsla(120,17%,5%,1) 51%, hsla(330,11%,4%,1) 100%); 
+background: -webkit-linear-gradient(-45deg,  hsla(191,12%,72%,1) 0%,hsla(160,4%,45%,1) 50%,hsla(120,17%,5%,1) 51%,hsla(330,11%,4%,1) 100%); 
+background: linear-gradient(135deg,  hsla(191,12%,72%,1) 0%,hsla(160,4%,45%,1) 50%,hsla(120,17%,5%,1) 51%,hsla(330,11%,4%,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#aebcbf', endColorstr='#0a0809',GradientType=1 ); 
+
+  }
+  
+  .button1:hover {
+    background-color: #4CAF50;
+    color: white;
+  }
+  .button2 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid hsla(19, 89%, 37%, 0.199);
+  }
+  
+  .button2:hover {
+    background-color:red;
+    color:green;
+  }
+  

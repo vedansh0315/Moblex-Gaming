@@ -1,0 +1,36 @@
+body{
+    background-image: url('ak 49.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    color:red;
+}
+.nav{
+    height: 60px;
+    background-color: #606060FF;
+    color: red;
+}
+.nav h1{
+    display: inline-block;
+    position: absolute;
+    left: 5;
+    color:red;
+    padding-bottom: 5px;
+}
+.nav ul{
+    position: absolute;
+    right: 5px;
+
+}
+.nav ul li{
+display:inline-block;
+}
+.nav ul li a{
+    color:red;
+    padding: 5px;
+}
+.top{
+    text-align: center;
+    text-shadow: 5px 5px 3px red;
+    color:#ABDDE4;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

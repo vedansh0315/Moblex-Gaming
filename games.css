@@ -1,0 +1,60 @@
+body{
+    background-image: url('ak 49.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    color:black;
+}
+.nav{
+    height: 60px;
+    background-color: white;
+    color: black;
+    
+}
+.nav h1{
+    display: inline-block;
+    position: absolute;
+    left: 5;
+    color:black;
+    font-style: oblique;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-bottom: 5px;
+   
+}
+.nav ul{
+    position: absolute;
+    right: 5px;
+    overflow: hidden;
+
+}
+.nav ul li{
+
+display: inline-block;
+
+
+}
+.nav ul li a{
+    color:black;
+    padding: 5px;
+    
+}
+.top{
+    text-align: center;
+    text-shadow: 5px 5px 5px red;
+    color: silver;
+}
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+
+  }
+ .top2{
+     text-align: center;
+     text-shadow:5px 5px 3px black;
+     color: #D3B7CE;
+ }
+.top3{
+    text-align: center;
+    text-shadow:5px 5px 3px black;
+    color: #D3B7CE;
+}
